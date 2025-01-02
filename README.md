@@ -1,4 +1,4 @@
-# image-documents-segmentation# Image Documents Segmentation
+# Image Documents Segmentation
 
 Segmentation of image documents based on machine learning.
 
